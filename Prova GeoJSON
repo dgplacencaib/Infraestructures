@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOM": "Conselleria d'educació, Universitat i Recerca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.674698829650879,
+          39.595007642349515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOM": "Aeropost de Palma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7295875549316406,
+          39.55064761909318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOM": "Universitat de les Illes Balears"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6471900939941406,
+          39.63848002167708
+        ]
+      }
+    }
+  ]
+}
